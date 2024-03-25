@@ -1,0 +1,9 @@
+1 grosz
+2 grosze
+5 groszy
+10 groszy
+20 groszy
+50 groszy
+1 zloty
+2 zlote
+5 zlotych
